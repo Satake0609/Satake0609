@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Fu</h1>
+<p align="center">
+  <b>ゲームプランナー志望 ／ HAL東京 ゲーム制作学科（企画）</b><br>
+  「なぜ気持ちいいのか」を言葉にして、遊びに落とし込む。
+</p>
 
-<!--
-**Satake0609/Satake0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎮 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 企画として、**アクションの手触りや気持ちよさ**を作り込むのが好きです
+- 企画書を書くだけでなく、C++やUnityで自分で動くものを作って確かめます
+- 複数のチーム制作で企画・リーダーを担当しています
+- ゲーム企画の分析勉強会を主催しています（ベヨネッタ、DMCなどの逆企画書）
+- 🏆 HAL 三校合同コンテスト 金賞（1年後期）
+
+---
+
+## 🕹️ Works
+
+| 作品 | 内容 | 担当 / 技術 |
+|---|---|---|
+| **ECHO SPLIT** | Switch向け横スクロールアクション。死ぬと走った自分が味方として残る「ECHO」、ぎりぎりで避けるほど時間が止まる「SPLIT」。**失敗が資産になる**アクション | 個人制作 ／ C++ |
+| [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力の磁石パズルアクション | 企画・リーダー ／ Unity・C# |
+| **ロボボラッシュ！** | アーケード風レールシューター。DMC風ランク（D〜SSS）、コンボ、2P乱入、ボス戦、LANでのスコア集計 | 企画・実装 ／ Unity・Node.js・Blender |
+
+<!-- 作品ごとにリポジトリやプレイ動画があれば、作品名をリンクにしてください -->
+<!-- 例：[**ECHO SPLIT**](https://youtu.be/xxxx) -->
+
+---
+
+## 🛠️ Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge)
+
+**Engines / Frameworks**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_4%2F5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=for-the-badge)
+![MagicOnion](https://img.shields.io/badge/MagicOnion-2B6CB0?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Art / Design**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Team / Planning**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge)
+
+**AI**
+
+![MCP](https://img.shields.io/badge/MCP開発-000000?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Satake0609&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satake0609&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
