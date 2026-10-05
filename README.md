@@ -11,7 +11,7 @@
 
 | 作品 | 内容 | 担当 / 技術 |
 |---|---|---|
-| [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力の磁石パズルアクション | 企画・ディレクション / Unity・C# |
+| [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力パズルアクション | 企画・ディレクション / Unity・C# |
 
 <!-- 作品ごとにリポジトリやプレイ動画があれば、作品名をリンクにしてください -->
 <!-- 例：[**ECHO SPLIT**](https://youtu.be/xxxx) -->
