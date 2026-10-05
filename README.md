@@ -13,8 +13,6 @@
 |---|---|---|
 | [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力パズルアクション<br>🏆 **TGS2026 出展**（神ゲーエボリューション）<br>🏆 **HAL 三校合同コンテスト 金賞**（1年後期）<br>[▶ α版をダウンロード](https://github.com/Satake0609/MagnetFriends/releases/latest) | 企画・ディレクション / Unity・C# |
 
-<!-- 作品ごとにリポジトリやプレイ動画があれば、作品名をリンクにしてください -->
-<!-- 例：[**ECHO SPLIT**](https://youtu.be/xxxx) -->
 
 ---
 
