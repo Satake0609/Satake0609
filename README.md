@@ -11,7 +11,7 @@
 
 | 作品 | 内容 | 担当 / 技術 |
 |---|---|---|
-| [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力パズルアクション<br>🏆 **TGS2026 出展**（神ゲーエボリューション）<br>🏆 **HAL 三校合同コンテスト 金賞**（1年後期）<br>[▶ TGS出展版をダウンロード](https://github.com/Satake0609/MagnetFriends/releases/latest) | 企画・ディレクション / Unity・C# |
+| [**MagnetFriends!**](https://github.com/Satake0609/MagnetFriends) | 2人協力パズルアクション<br>🏆 **TGS2026 出展**（神ゲーエボリューション）<br>🏆 **HAL 三校合同コンテスト 金賞**（1年後期）<br>[▶ TGS出展版をダウンロード](https://github.com/Satake0609/MagnetFriends/releases/latest) | 企画・ディレクション / Unity・C# |　
 
 
 ---
