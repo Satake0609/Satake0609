@@ -17,6 +17,17 @@
 
 ## 🛠️ Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,blender,figma,ps,ai,pr,git,nodejs&perline=12" alt="Skills">
-</p>
+**Languages**<br>
+<img src="assets/skills/languages.svg" alt="C#, C++, JavaScript, HTML, CSS">
+
+**Engines / Frameworks**<br>
+<img src="assets/skills/engines.svg" alt="Unity, Unreal Engine, Node.js">
+
+**Art / Design**<br>
+<img src="assets/skills/art.svg" alt="Blender, Maya, Aseprite, GIMP, Figma, Photoshop, Illustrator, Premiere Pro">
+
+**Planning / Docs**<br>
+<img src="assets/skills/planning.svg" alt="Trello, Miro, Google Sheets, Excel, PowerPoint">
+
+**Tools**<br>
+<img src="assets/skills/tools.svg" alt="Git, GitHub, Visual Studio, Discord">
